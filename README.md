@@ -8,5 +8,6 @@
 
 ## 課程筆記區
 ## 作業連結區
+[HW1.py](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW1.py)
 ## 專題連結區
 
