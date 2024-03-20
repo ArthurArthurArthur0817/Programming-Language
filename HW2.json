@@ -1,0 +1,77 @@
+{
+  "salary_info": {
+    "AR/VR Engineer": 158292,
+    "Security Engineer": 165505,
+    "Machine Learning Engineer": 158307,
+    "Data Engineer": 155990,
+    "NLP.Engineer": 160227,
+    "Mobile Engineer": 160227,
+    "Blockchain Engineer": 156527,
+    "Backend Engineer": 157295,
+    "Database Engineer": 157148,
+    "Search Engineeer": 160392
+  },
+  "Top10_popular_languages": [
+    "Python",
+    "JavaScript",
+    "Java",
+    "TypeScript",
+    "C#",
+    "Go",
+    "HTML",
+    "C++",
+    "Ruby",
+    "C"
+  ],
+  "most_demand_skill": [
+    "Go",
+    "Ruby on Rails",
+    "Scala",
+    "Ruby",
+    "React Native",
+    "Kotlin",
+    "Typescript",
+    "Kafka",
+    "React",
+    "Node.Js"
+  ],
+  "engineer_using_languange": {
+    "Security Engineer": [
+      "Web"
+    ],
+    "Search Engineeer": [
+      "Python",
+      "R",
+      "SQL"
+    ],
+    "NLP.Engineer": [
+      "Python"
+    ],
+    "Mobile Engineer": [
+      "Kotlin",
+      "Java"
+    ],
+    "Machine Learning Engineer": [
+      "Python"
+    ],
+    "AR/VR Engineer": [
+      "Unity"
+    ],
+    "Backend Engineer": [
+      "Node.Js",
+      "JavaScript"
+    ],
+    "Database Engineer": [
+      "Linux",
+      "Shell"
+    ],
+    "Blockchain Engineer": [
+      "Solidity",
+      "JavaScript"
+    ],
+    "Data Engineer": [
+      "Python",
+      "Java"
+    ]
+  }
+}
