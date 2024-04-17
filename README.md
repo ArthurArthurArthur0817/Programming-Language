@@ -22,5 +22,18 @@
 [作業2_視覺化分析圖](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW2_%E8%A6%96%E8%A6%BA%E5%8C%96%E5%9C%96%E8%A1%A8.png)
 
 [作業2_分析](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW2_2022%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%90%84%E9%A0%85%E5%88%86%E6%9E%90%20.pdf)
+
+### 作業3
+[作業3_主程式](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW3_%E7%88%AC%E8%9F%B2%E7%A8%8B%E5%BC%8F(Yahoo%E8%82%A1%E5%B8%82).ipynb)
+
+[作業3_CSV檔案](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW3.csv)
+
+[作業3_JSON檔](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW3.json)
+
+[作業3_影片](https://youtu.be/qMmBXuoLpzo?si=1hJeRQIEvQZ5u3xM)
+
+
+
+
 ## 專題連結區
 
