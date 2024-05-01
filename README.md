@@ -37,7 +37,7 @@
 
 [作業4_說明檔案](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW4_%E7%A8%8B%E5%BC%8F%E8%AA%AA%E6%98%8E.pdf)
 
-[作業3(更新程式)](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW3_%E7%88%AC%E8%9F%B2%E7%A8%8B%E5%BC%8F(Yahoo%E8%82%A1%E5%B8%82)%20(update).ipynb)_
+[作業3(更新程式)](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW3_%E7%88%AC%E8%9F%B2%E7%A8%8B%E5%BC%8F(Yahoo%E8%82%A1%E5%B8%82)%20(update).ipynb)
 
 
 ## 專題連結區
