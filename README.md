@@ -32,7 +32,12 @@
 
 [作業3_影片](https://youtu.be/qMmBXuoLpzo?si=1hJeRQIEvQZ5u3xM)
 
+### 作業4
+[作業4_程式](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW4_LLM_%26_%E6%96%87%E5%AD%97%E8%A6%96%E8%A6%BA%E5%8C%96%E9%97%9C%E8%81%AF%E5%9C%96.ipynb)
 
+[作業4_說明檔案](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW4_%E7%A8%8B%E5%BC%8F%E8%AA%AA%E6%98%8E.pdf)
+
+[作業3(更新程式)](https://github.com/ArthurArthurArthur0817/Programming-Language/blob/main/HW3_%E7%88%AC%E8%9F%B2%E7%A8%8B%E5%BC%8F(Yahoo%E8%82%A1%E5%B8%82)%20(update).ipynb)_
 
 
 ## 專題連結區
